@@ -1,0 +1,28 @@
+body {
+  margin-top: 20px;
+text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+  
+  img{
+    max-width: 300px;
+    height: 300px;
+  }
+  }
+
+@media only screen and (max-width: 768px) {
+  
+img{
+  max-width: 200px;
+  height: 200px;
+}
+}
+
+@media only screen and (max-width: 533px) {
+  
+  img{
+    max-width: 130px;
+    height: 130px;
+  }
+  }
